@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jLina-cpu
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Java, Linear Algebra, Theory of Computation
+- 🌱 I’m currently learning Software Tools and Systems Programming, Computer Organization, Linguistics
 - 💞️ I’m looking to collaborate on fun and meaningful projects
 - 📫 How to reach me ...
 
